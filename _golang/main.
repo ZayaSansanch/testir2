@@ -1,0 +1,10 @@
+package main
+
+import (
+	"fmt"
+	// "github.com/ZayaSansanch/testir2/golang/read"
+)
+
+func main() {
+	fmt.Println("Hello, go world!")
+}

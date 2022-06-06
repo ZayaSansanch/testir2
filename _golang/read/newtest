@@ -1,0 +1,7 @@
+// package golang
+
+// import "log"
+
+// func NewTest() {
+// 	log.Fatalln("NewTest")
+// }

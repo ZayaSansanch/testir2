@@ -1,0 +1,14 @@
+// package read
+
+// import (
+// 	"log"
+// 	"os"
+// )
+
+// func ReadFile() byte {
+// 	content, err := os.ReadFile("request.txt")
+// 	if err != nil {
+// 		log.Fatalln(err)
+// 	}
+// 	return content[0]
+// }
